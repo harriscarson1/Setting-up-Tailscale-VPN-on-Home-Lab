@@ -2,28 +2,22 @@
 <img src="" alt=""/>
 </p>
 
-<h1>Setting Up and Configuring Cisco Router and Switch</h1>
-This tutorial outlines the  installation of a Cisco 4351ISR router and a Cisco 3560-X Switch aswell as how to configure it for an organization.<br />
+<h1>Setting Up Tailscale VPN on Home Lab</h1>
+This tutorial outlines the  installation of Tailscale on my Home Lab<br />
 
 
 
 <h2>Environments and Technologies Used</h2>
 
-- Routing
-- DHCP
-- DNS
-- Firewalls
-- APs
-- NAT/PAT
-- VLANS
-- Switching
-- Cisco CLI
+- VPN
+- CLI
+- Tailscale
 
 
-<h2>Operating System </h2>
+<h2>Operating Systems</h2>
 
-- Windows 10</b> (22H2)
-- Cisco CLI
+- Linux
+- Proxmox
 
 
 <h2>Installation Steps</h2>
